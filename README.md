@@ -25,3 +25,8 @@ python -u xxx.py
 [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
 
 [Python Design Patterns](https://python-patterns.guide/)
+
+### Books
+
+- Design Patterns: Elements of Reusable Object-Oriented Software
+- Heads First Design Patterns: A Brain-Friendly Guide
